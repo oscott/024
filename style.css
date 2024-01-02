@@ -1324,3 +1324,7 @@ details.accordion .details-content {
   display: grid;
   place-items: center;
 }
+
+#o23 {
+  zoom:10%;
+}
