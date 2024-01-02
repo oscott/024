@@ -152,6 +152,7 @@ footer, header, hgroup, menu, nav, section {
 
 body {
   line-height: 1;
+  margin: 2rem;
 }
 
 ol, ul {
